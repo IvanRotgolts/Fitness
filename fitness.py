@@ -1,6 +1,10 @@
 import random
 FILE_NAME=r"C:\MyPrograms\individual_projects\fitness\questions.txt"
 
+
+
+
+
 def read(file_name):
     try:
         with open(file_name,"r",encoding="utf-8") as file:
